@@ -1,3 +1,0 @@
-dot dot dot
-
-# bash
